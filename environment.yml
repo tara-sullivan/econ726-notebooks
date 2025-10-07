@@ -23,3 +23,4 @@ dependencies:
     - sodapy
     - polars
     - statsforecast
+    - causalinference
