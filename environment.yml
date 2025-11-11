@@ -25,3 +25,5 @@ dependencies:
     - statsforecast
     - causalinference
     - pysyncon
+    - linearmodels
+    
